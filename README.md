@@ -1,5 +1,7 @@
 # Eclipse Markdown Editor Plugin
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/494e422b-de74-484f-8387-71b19c9c2e7c.svg?orgId=604336610407)](https://app.soluble.cloud/repos/details/github.com/jefferyfry/eclipse-markdown-editor-plugin?orgId=604336610407)  
+
 [![Build Status](https://secure.travis-ci.org/winterstein/Eclipse-Markdown-Editor-Plugin.png)](http://travis-ci.org/winterstein/Eclipse-Markdown-Editor-Plugin)
 <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=369" 
 title="Drag and drop into a running Eclipse toolbar area to install Markdown Text Editor">
